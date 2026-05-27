@@ -53,16 +53,6 @@ I am interested in **QA, enterprise systems, and AI-assisted development**, and 
 
 ---
 
-## 🚀 Top Projects
-
-- Treasury Management System (FinTech Domain)
-- Inventory Management System (CodeIgniter + MySQL)
-- E-Commerce Management System
-- Book Data Scraping Project (Python)
-- Data Analysis (R / Python)
-
----
-
 ## 📫 Contact
 
 - Email: rifahsanzida512@gmail.com  
