@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Rifah Sanzida</h1>
 
 <h3 align="center">
-Application Analyst | FinTech Systems (Treasury) | QA & AI Enthusiast | Full Stack Learner
+Machine Learning | FinTech Systems | AI & Data Science Enthusiast | QA Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=FinTech+Application+Analyst;QA+%26+Software+Testing+Enthusiast;AI-Assisted+Development+Workflows;Full+Stack+Development+Learner;Enterprise+Systems+%26+Problem+Solving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+Aspiring;FinTech+Application+Analyst;AI+%26+Data+Science+Enthusiast;QA+%26+System+Testing;Behavioral+AI+Research" />
 </p>
 
 ---
@@ -25,7 +25,7 @@ My work focuses on:
 - QA & Testing Workflows
 - AI-assisted Development
 
-I am passionate about enterprise applications, financial systems, software quality assurance, and modern development workflows.
+I am passionate about enterprise applications, financial systems, software quality assurance, and modern development workflows. I also specialize in Machine Learning, Data Science, and Behavioral AI systems with hands-on research experience in multimodal data analysis and predictive modeling.
 
 ---
 
@@ -34,7 +34,7 @@ I am passionate about enterprise applications, financial systems, software quali
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,cpp,php,mysql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,php,mysql,sql" />
 </p>
 
 ---
@@ -85,6 +85,6 @@ I am passionate about enterprise applications, financial systems, software quali
 
 <p align="center">
   <i>
-    Focused on FinTech systems, QA engineering, enterprise applications, and AI-assisted software development.
+    Focused on Machine Learning, FinTech systems, AI-driven analytics, and intelligent enterprise applications.
   </i>
 </p>
