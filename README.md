@@ -12,7 +12,7 @@ Application Analyst | FinTech Systems | Data Analytics | AI & Machine Learning |
 
 # 👋 About Me
 
-I am a Computer Science & Engineering graduate currently working as an **Application Analyst** in a FinTech environment, contributing to a live **Treasury Management System** covering:
+I am a Computer Science & Engineering graduate currently working as an **Application Analyst and SQA** in a FinTech environment, contributing to a live **Treasury Management System** covering:
 
 - Money Market
 - FX (Foreign Exchange)
