@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Rifah Sanzida</h1>
 
 <h3 align="center">
-Machine Learning | FinTech Systems | AI & Data Science Enthusiast | QA Engineer
+Application Analyst | FinTech Systems | Data Analytics | AI & Machine Learning | QA Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+Aspiring;FinTech+Application+Analyst;AI+%26+Data+Science+Enthusiast;QA+%26+System+Testing;Behavioral+AI+Research" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=FinTech+Application+Analyst;Treasury+Management+System;Data+Analytics+%26+Machine+Learning;Software+Quality+Assurance;Behavioral+AI+Research" />
 </p>
 
 ---
@@ -25,7 +25,29 @@ My work focuses on:
 - QA & Testing Workflows
 - AI-assisted Development
 
-I am passionate about enterprise applications, financial systems, software quality assurance, and modern development workflows. I also specialize in Machine Learning, Data Science, and Behavioral AI systems with hands-on research experience in multimodal data analysis and predictive modeling.
+I am passionate about enterprise applications, financial systems, software quality assurance, and modern development workflows. I also have hands-on research experience in Machine Learning, Data Science, and Behavioral AI, focusing on multimodal data analysis, predictive modeling, and intelligent systems.
+
+---
+
+# 🔬 Research & AI Projects
+
+## 🧠 Multimodal Machine Learning for Personality Prediction
+
+Developed a behavioral AI system using multimodal data from mobile sensors.
+
+Highlights:
+- Built Android application for collecting touch and gyroscope behavior data.
+- Worked with 50K+ behavioral samples from 46 participants.
+- Applied ML models:
+  - Logistic Regression
+  - SVM
+  - Random Forest
+  - XGBoost
+  - CatBoost
+- Achieved **98.3% accuracy using XGBoost** with ROC-AUC **0.999**.
+
+Research Area:
+Behavioral Biometrics | Machine Learning | Predictive Modeling
 
 ---
 
@@ -34,7 +56,7 @@ I am passionate about enterprise applications, financial systems, software quali
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,php,mysql,sql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,php,java,javascript" />
 </p>
 
 ---
@@ -50,6 +72,19 @@ I am passionate about enterprise applications, financial systems, software quali
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
 </p>
+
+---
+
+### 📊 Data Analytics & Machine Learning
+
+- SQL
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- XGBoost
 
 ---
 
@@ -85,6 +120,6 @@ I am passionate about enterprise applications, financial systems, software quali
 
 <p align="center">
   <i>
-    Focused on Machine Learning, FinTech systems, AI-driven analytics, and intelligent enterprise applications.
+    Focused on FinTech systems, Data Analytics, Machine Learning, Software Quality Assurance, and intelligent enterprise applications.
   </i>
 </p>
