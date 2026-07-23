@@ -19,6 +19,7 @@ I am a Computer Science & Engineering graduate currently working as an **Applica
 - Securities
 
 My work focuses on:
+
 - Business Requirement Analysis (BRD)
 - Enterprise System Support
 - Functional Validation
@@ -36,6 +37,7 @@ I am passionate about enterprise applications, financial systems, software quali
 Developed a behavioral AI system using multimodal data from mobile sensors.
 
 Highlights:
+
 - Built Android application for collecting touch and gyroscope behavior data.
 - Worked with 50K+ behavioral samples from 46 participants.
 - Applied ML models:
@@ -102,11 +104,9 @@ Behavioral Biometrics | Machine Learning | Predictive Modeling
   <a href="mailto:rifahsanzida512@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/rifah-sanzida-b58141290/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://github.com/Rifah22">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
